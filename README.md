@@ -1,2 +1,2 @@
-# My Cloud Portion Github IO site
-Gathers the static website for My Cloud Portion.
+# My Cloud Portion Website
+This repository cotains the landing page for My Cloud Portion.
